@@ -10,17 +10,18 @@
     <content src="index.html" />
 
     <!-- all platforms -->
-    <preference name="phonegap-version" value="cli-6.0.0" />
+    <preference name="phonegap-version" value="cli-6.4.0" />
     <preference name="orientation" value="portrait" />
     <preference name="fullscreen" value="true" />
 
     <!-- Android only -->
     <preference name="android-build-tool" value="ant|gradle" />
-    <preference name="android-minSdkVersion" value="10" />
-    <preference name="android-maxSdkVersion" value="15" />
+    <preference name="android-minSdkVersion" value="14" />
+    <preference name="android-maxSdkVersion" value="25" />
     <preference name="android-targetSdkVersion" value="14" />
     <preference name="android-installLocation" value="auto" />
     <preference name="android-windowSoftInputMode" value="stateVisible|adjustResize" />
+    <preference name="AndroidPersistentFileLocation" value="Compatibility" />
 
     <plugin name="cordova-plugin-camera" source="npm" spec="~2.4.0" />
     <plugin name="cordova-plugin-media-capture" source="npm" spec="~1.2.0" />
