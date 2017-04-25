@@ -1,14 +1,17 @@
-# A Blank PhoneGap App
+# LettuceTag
 
 ## Usage
 
-### PhoneGap CLI
+### Install PhoneGap CLI
 
-    $ phonegap create my-app --template blank
+    $ npm install -g phonegap@latest
 
-### Desktop
+### Install PhoneGap Developer Application
 
-In your browser, open the file:
+[Play Store] (https://play.google.com/store/apps/details?id=com.adobe.phonegap.app)
 
-    /www/index.html
+### Run the Application
 
+    $ phonegap serve
+
+Navigate to the IP displayed on terminal to use the LettuceTag Application.
