@@ -8,7 +8,7 @@
 
 ### Install PhoneGap Developer Application
 
-[Play Store] (https://play.google.com/store/apps/details?id=com.adobe.phonegap.app)
+[Play Store](https://play.google.com/store/apps/details?id=com.adobe.phonegap.app)
 
 ### Run the Application
 
