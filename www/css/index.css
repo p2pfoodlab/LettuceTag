@@ -58,6 +58,10 @@ footer {
   width: 100%;
 }
 
+.btn-nav {
+  position: absolute;
+  bottom: 10px;
+}
 /*.touch-region {
   touch-action: unset;
   cursor: pointer;
